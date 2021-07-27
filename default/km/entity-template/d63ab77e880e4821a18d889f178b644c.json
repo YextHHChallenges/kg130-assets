@@ -1,7 +1,6 @@
 {
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
   "name": "New Restaurant Content",
-  "externalId": "newRestaurantContent",
   "entityTypes": [
     "yext/restaurant"
   ],
@@ -50,5 +49,6 @@
       "url": "http://www.turtleheadtacos.com"
     },
     "yext/priceRange": "ONE"
-  }
+  },
+  "$id": "newRestaurantContent"
 }
